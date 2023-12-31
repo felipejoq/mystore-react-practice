@@ -1,8 +1,12 @@
-# React + Vite
+# 🛍️ MyStore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MyStore es una Web SPA que se comunica con un servicio creado con Node + Express ([Repositorio](https://github.com/felipejoq/node-postgres-practice)) y que pone en práctica conocimientos usando React, Context, React-Router-Dom, rutas protegidas, rutas públicas, entre otros aspectos más.
 
-Currently, two official plugins are available:
+## 👨‍💻 Para desarrollo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clonar el repositorio (```git clone https://github.com/felipejoq/mystore-react-practice.git```)
+2. Navegar a la carpeta del proyecto ()```cd mystore-react-practice```)
+3. Instalar los módulos de node (```npm install``` ó ```yarn install```)
+4. Ejecutar comando run dev (```npm run dev``` ó ```yarn dev```)
+
+Congrats 🙌 ✅
